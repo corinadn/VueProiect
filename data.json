@@ -1,0 +1,104 @@
+{
+  "base_price": 0,
+  "country" : [
+    {
+      "id": "1",
+      "destination": "Egipt"
+    },
+    {
+      "id": "2",
+      "destination": "Grecia"
+    },
+    {
+      "id": "3",
+      "destination": "Turcia"
+    }
+  ],
+  "operator": [
+    {
+      "id": "1",
+      "name": "Panda Tur",
+      "sale": 0
+    },
+    {
+      "id": "2",
+      "name": "Sunshine Tur, *REDUCERE 5% ",
+      "sale": 1
+
+    },
+    {
+      "id": "3",
+      "name": "My Climal Tur",
+      "sale": 0
+    }
+  ],
+  "hotel": [
+    {
+      "idH": "1",
+      "denumire": "AMWAJ OYOUN HOTEL& RESORT 5*, 50 euro",
+      "plus_pret": 50,
+      "image": "https://mdbootstrap.com/img/Photos/Others/images/16.jpg"
+    },
+    {
+      "idH": "1",
+      "denumire": "CORAL BEACH RESORT TIRAN 4*, 45 euro",
+      "plus_pret": 45,
+      "image": "https://mdbootstrap.com/img/Photos/Others/images/16.jpg"
+    },
+    {
+      "idH": "1",
+      "denumire": "FALCON NAAMA STAR HOTEL 3*, 40 euro",
+      "plus_pret": 40,
+      "image": "https://mdbootstrap.com/img/Photos/Others/images/16.jpg"
+    },
+    {
+      "idH": "2",
+      "denumire": "HOTEL DORIAN INN 4*, 70 euro",
+      "plus_pret": 70,
+      "image": "https://mdbootstrap.com/img/Photos/Others/images/16.jpg"
+    },
+    {
+      "idH": "2",
+      "denumire": "SUITES OF THE GODS 4*, 35 euro",
+      "plus_pret": 100,
+      "image": "https://mdbootstrap.com/img/Photos/Others/images/16.jpg"
+    },
+    {
+      "idH": "2",
+      "denumire": "MYCHONOS BEACH HOTEL 3*, 60 euro",
+      "plus_pret": 30,
+      "image": "https://mdbootstrap.com/img/Photos/Others/images/16.jpg"
+    },
+    {
+      "idH": "3",
+      "denumire": "VENUS SUITE 5*, 40 euro",
+      "plus_pret": 40,
+      "image": "https://mdbootstrap.com/img/Photos/Others/images/16.jpg"
+    },
+    {
+      "idH": "3",
+      "denumire": "GRAND MARCELLO 4*, 35 euro",
+      "plus_pret": 35,
+      "image": "https://mdbootstrap.com/img/Photos/Others/images/16.jpg"
+    },
+    {
+      "idH": "3",
+      "denumire": "HOTEL PRIVATE-STUDIO 3*, 30 euro",
+      "plus_pret": 30,
+      "image": "https://mdbootstrap.com/img/Photos/Others/images/16.jpg"
+    }
+  ],
+  "transport": [
+    {
+      "id": "1",
+      "tip": "Avion",
+      "plus_pret": 50
+    },
+    {
+      "id": "2",
+      "tip": "Autocar",
+      "plus_pret": 25
+    }
+  ],
+  "nights" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+}
